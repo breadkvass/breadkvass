@@ -1,4 +1,4 @@
-# <p align='center'>Я Настя - фронтенд-разработчица</p>
+# <p align='center'>Настя - фронтенд-разработчица :supervillain_woman:</p>
 
 <p align='center'>Изучаю фронтенд с марта 2023 года, самостоятельно и проходя курсы. Обладаю коммерческим опытом.</p>
 
@@ -33,7 +33,11 @@
 
 </div>
 
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=breadkvass&theme=dark)
 
+</div>
 
 ## <p align='center'>Софт-скилы:</p>
 
@@ -54,6 +58,18 @@
   </div>
 </div>
 
+## <p align='center'>Контакты</p>
+
+<p align='center'>Со мной можно напрямую связаться через telegram или What's App</p>
+
+<div align="center">
+  <a href="https://t.me/breadkvass">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" />
+  </a>
+  <a href="https://wa.me/79267321372">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="55" />
+  </a>
+</div>
 
 
 <!--
