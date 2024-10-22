@@ -22,20 +22,10 @@
 </div>
 
 ## <p align='center'>Статистика</p>
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=breadkvass&theme=dark&locale=ru&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
-
-</div>
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breadkvass&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=breadkvass&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breadkvass&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
