@@ -4,7 +4,7 @@
 
 <p align='center'>Успела поработать в стартапе на Angular (теперь точно знаю, что React мне сильно ближе)</p>
 <p align='center'>Участвовала в хакатоне от Росбанка и Яндекса: <b>1 место</b> в индвидуальном зачете, <b>3 место</b> в командном</p>
-<p align='center'><a href='https://github.com/breadkvass/hackathon'>Ссылка на репо</a> (в процессе доработки). Проект размещён на https://hackathon-team2.ru/</p>
+<p align='center'><a href='https://github.com/breadkvass/hackathon'>Ссылка на репо</a> (в процессе доработки и перехода бэка на новый сервер). Проект размещён на https://hackathon-team2.ru/</p>
 
 ## <p align='center'>Стек</p>
 
