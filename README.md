@@ -6,7 +6,7 @@
 <p align='center'>Участвовала в хакатоне от Росбанка и Яндекса: <b>1 место</b> в индвидуальном зачете, <b>3 место</b> в командном</p>
 <p align='center'><a href='https://github.com/breadkvass/hackathon'>Ссылка на репо</a> (в процессе доработки и перехода бэка на новый сервер). Проект размещён на https://hackathon-team2.ru/</p>
 
-<p align='center'>Последний опубликованный <a href='https://oksana-alimova.ru/'>проект</a></p>
+<p align='center'>Последний опубликованный проект: <a href='https://oksana-alimova.ru/'>лендинг для гинеколога</a></p>
 
 ## <p align='center'>Стек</p>
 
