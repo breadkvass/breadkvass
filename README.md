@@ -2,9 +2,10 @@
 
 <p align='center'>Изучаю фронтенд с марта 2023 года, самостоятельно и проходя курсы. Обладаю коммерческим опытом.</p>
 
-<p align='center'>На данный момент работаю в стартапе <a href='https://petmap.app/'>PetMap</a> на React Native</p>
+<p align='center'>На данный момент работаю в стартапе <a href='https://petmap.app/'>PetMap</a> на React Native. <a href='https://github.com/VarLev/PetMap-Frontend'>Ссылка на репо</a>.</p>
+
 <p align='center'>Участвовала в хакатоне от Росбанка и Яндекса: <b>1 место</b> в индвидуальном зачете, <b>3 место</b> в командном</p>
-<p align='center'><a href='https://github.com/breadkvass/hackathon'>Ссылка на репо</a> (в процессе доработки и перехода бэка на новый сервер). Проект размещён на https://hackathon-team2.ru/</p>
+<p align='center'><a href='https://github.com/breadkvass/hackathon'>Ссылка на репо</a>. Проект размещён на https://hackathon-team2.ru/</p>
 
 <p align='center'>Последний опубликованный проект: <a href='https://oksana-alimova.ru/'>лендинг для гинеколога</a></p>
 
