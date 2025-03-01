@@ -27,6 +27,9 @@
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breadkvass&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=breadkvass&theme=highcontrast&card_width=480&card_height=170&hide_longest_streak=true)](https://git.io/streak-stats)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=breadkvass&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -61,19 +64,3 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="55" />
   </a>
 </div>
-
-
-<!--
-**breadkvass/breadkvass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
