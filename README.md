@@ -27,7 +27,7 @@
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breadkvass&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=breadkvass&theme=dark&exclude_days=Sun%2CSat&card_width=400&card_height=170)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=breadkvass&theme=highcontrast&exclude_days=Sun%2CSat&card_width=400&card_height=170)](https://git.io/streak-stats)
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=breadkvass&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
