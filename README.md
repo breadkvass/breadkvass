@@ -1,8 +1,8 @@
 # <p align='center'>Настя - фронтенд-разработчица :supervillain_woman:</p>
 
-<p align='center'>Изучаю фронтенд с марта 2023 года, самостоятельно и проходя курсы. Обладаю коммерческим опытом.</p>
+<p align='center'>Изучаю фронтенд с марта 2023 года, самостоятельно и проходя курсы.</p>
 
-<p align='center'>На данный момент работаю в стартапе <a href='https://petmap.app/'>PetMap</a> на React Native: <a href='https://github.com/VarLev/PetMap-Frontend'>cсылка на репо</a>.</p>
+<p align='center'>На данный момент работаю в стартапе PetMap на React Native и TypeScript: <a href='https://petmap.app/'>сайт проекта</a>.</p>
 
 <p align='center'>Участвовала в хакатоне от Росбанка и Яндекса: <b>1 место</b> в индвидуальном зачете, <b>3 место</b> в командном: <a href='https://github.com/breadkvass/hackathon'>cсылка на репо</a>.</p>
 
